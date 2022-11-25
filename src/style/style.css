@@ -106,7 +106,7 @@ h4{
 .about{
 	width: 100%;
 	padding: 100px 0px;
-	background-color: #191919;
+	background-color:rgb(226, 209, 209);
 }
 .about img{
 	height: auto;
@@ -114,7 +114,7 @@ h4{
 }
 .about-text{
 	width: 550px;
-}
+}	
 .main{
 	width: 1130px;
 	max-width: 95%;
@@ -159,7 +159,7 @@ button:hover{
 	cursor: pointer;
 }
 .service{
-	background: #191919;
+	background: rgb(226, 209, 209);
 	width: 100%;
 	padding: 100px 0px;
 }
@@ -180,7 +180,7 @@ button:hover{
 	height: 365px;
 	width: 335px;
 	padding: 20px 35px;
-	background: #191919;
+	background: #837777;
 	border-radius: 20px;
 	margin: 15px;
 	position: relative;
@@ -192,7 +192,7 @@ button:hover{
 	display: block;
 	text-align: center;
 	margin: 25px 0px;
-	color: #f9004d;
+	color: #ecc19c;
 
 }
 h5{
@@ -201,7 +201,7 @@ h5{
 	margin-bottom: 15px;
 }
 .pra p{
-	color: #1e847f;
+	color: #2c504e;
 	font-size: 16px;
 	line-height: 27px;
 	margin-bottom: 25px;
